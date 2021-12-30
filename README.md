@@ -1,6 +1,6 @@
 ![shields.io](https://img.shields.io/badge/MADE%20WITH-Unity3D-red)
 ![shields.io](https://img.shields.io/badge/platform-Windows-green)
-![shields.io](https://img.shields.io/badge/GOAP-pink)
+![shields.io](https://img.shields.io/badge/GOAP-purple)
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Divyani-blue.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
 
 # GOAP-BasicWorkingHospital
